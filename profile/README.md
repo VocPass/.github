@@ -21,7 +21,7 @@
 |------|------|------|
 | [VocPass for iOS](https://github.com/VocPass/VocPass) | iOS / macOS 原生 App | Swift · SwiftUI · ActivityKit |
 | [Server](https://github.com/VocPass/server) | 後端 API 伺服器 | Python · FastAPI |
-| [shin-her](https://github.com/HansHans135/shin-her) | 網頁版前身 | — |
+| [shin-her](https://github.com/HansHans135/shin-her) | 網頁版前身 | Python · Flask |
 
 ---
 
